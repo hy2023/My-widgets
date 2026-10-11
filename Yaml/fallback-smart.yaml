@@ -224,6 +224,9 @@ rules:
   - GEOSITE,category-games,Game # 其他游戏平台（如 Epic、Origin、Uplay 等）
   - GEOSITE,youtube,YouTube
   - GEOSITE,category-entertainment,Streaming # 非中国区流媒体（如 Netflix、Disney+ 等）
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,CN
+  - DOMAIN,clientservices.googleapis.com,Google
+  - DOMAIN,services.googleapis.cn,Google
   - GEOSITE,google,Google
   - GEOSITE,apple,Corp
   - GEOSITE,microsoft,Corp
